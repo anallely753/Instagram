@@ -23,11 +23,19 @@ footer{
 	margin-top: 5vh;
 }
 
-.container{
+.container-fluid{
 	margin-top: 5vh;
 }
 
-h1,h2{
+.display-4{
 	font-family: 'Lobster', cursive;
-	margin-bottom: 3vh;
+	margin-bottom: 0;
+}
+
+.sub{
+	font-family: 'Crimson Text', serif;
+}
+
+blockquote{
+	
 }
