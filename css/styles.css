@@ -20,6 +20,7 @@ nav, footer{
 
 footer{
 	height: 10vh;
+	margin-top: 5vh;
 }
 
 .container{
@@ -28,8 +29,5 @@ footer{
 
 h1,h2{
 	font-family: 'Lobster', cursive;
-}
-
-.api{
-	margin: 5vh;
+	margin-bottom: 3vh;
 }
